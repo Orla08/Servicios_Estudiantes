@@ -1,0 +1,14 @@
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="XPlat Code Coverage">
+        <Configuration>
+          <Threshold>80</Threshold>
+          <ThresholdType>Line</ThresholdType>
+          <ThresholdStat>Minimum</ThresholdStat>
+          <Exclude>[*.Tests]*</Exclude>
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>

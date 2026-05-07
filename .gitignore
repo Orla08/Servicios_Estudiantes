@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!**/packages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test results
+TestResults/
+[Cc]overage*/
+*.coverage
+*.coveragexml
+
+# Publish output
+*.[Pp]ublish.xml
+*.azurePubxml
+publish/
+PublishScripts/
+
+# ASP.NET
+wwwroot/dist/
+bundleconfig.json
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific settings
+launchSettings.json
+appsettings.Development.json
+appsettings.Local.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Servicios_Estudiantes.Api/Servicios_Estudiantes.Api.csproj" />
+    <Project Path="src/Servicios_Estudiantes.Aplicacion/Servicios_Estudiantes.Aplicacion.csproj" />
+    <Project Path="src/Servicios_Estudiantes.Dominio/Servicios_Estudiantes.Dominio.csproj" />
+    <Project Path="src/Servicios_Estudiantes.Infraestructura/Servicios_Estudiantes.Infraestructura.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Servicios_Estudiantes.Aplicacion.Tests/Servicios_Estudiantes.Aplicacion.Tests.csproj" />
+    <Project Path="tests/Servicios_Estudiantes.Dominio.Tests/Servicios_Estudiantes.Dominio.Tests.csproj" />
+  </Folder>
+</Solution>
